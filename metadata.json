@@ -1,0 +1,9 @@
+{
+  "name": "Doyox - Global Innovation & Investment",
+  "description": "A global innovation and investment company empowering creators, entrepreneurs, and micro-businesses through digital solutions and strategic guidance.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
